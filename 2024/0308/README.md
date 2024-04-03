@@ -23,9 +23,15 @@
 
 在 [BlockCode Playground](https://make.blockcode.fun) 中有 Scratch Arcade 图形编程工具，进入后和 Scratch 的界面几乎是一模一样的，不过有一点小差别，因为硬件的限制（具体差异在 Scratch Arcade 正式发布后再详细列举），有极少部分的 Scratch 原本的功能有所打折，无法和原版的一模一样，但是编程的逻辑和交互流程是一模一样的。
 
+<center>
+
 ![](_media/icon.png ":size=207x223")
 ![](_media/ui.png)
 
+</center>
+
 ## 发布时间
 
-Scratch Arcade 正式发布时间暂定 **2024-4-1** 敬请期待。
+~~Scratch Arcade 正式发布时间暂定 **2024-4-1** 敬请期待。~~
+
+很抱歉，Scratch Arcade 延期发布，时间暂定 **2024-5-1** 敬请期待。
