@@ -114,8 +114,7 @@
               }
 
               const body = document.querySelector("body");
-              const gitalkContainer =
-                document.getElementById("gitalk-container");
+              const gitalkContainer = document.getElementById("gitalk-container");
               if (vm.route.path.includes("/slide/")) {
                 body.classList.add("close");
                 gitalkContainer.style.display = "none";
@@ -139,8 +138,9 @@
     <script src="//unpkg.com/@h-hg/docsify-image-caption/dist/docsify-image-caption.min.js"></script>
     <script src="//unpkg.com/docsify-chat/lib/docsify-chat.min.js"></script>
 
-    <script src="//unpkg.com/markmap-autoloader@0.15.2"></script>
-    <script src="//unpkg.com/docsify-markmap.js@1.0.0/docsify-markmap.min.js"></script>
+    <script src="//unpkg.com/markmap-autoloader"></script>
+    <script src="//unpkg.com/docsify-terminal-block"></script>
+    <script src="//unpkg.com/docsify-markmap.js/docsify-markmap.min.js"></script>
 
     <script src="//unpkg.com/docsify/lib/plugins/gitalk.min.js"></script>
     <script src="//unpkg.com/gitalk/dist/gitalk.min.js"></script>
